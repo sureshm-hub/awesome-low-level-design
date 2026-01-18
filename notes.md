@@ -2,16 +2,23 @@
     LLD is not just about writing code that works, it’s about writing code that’s modular, testable, extensible, 
     and easy to reason about as the system grows.
 
+# Components of LLD
+ - Classes & Objects
+ - Interfaces & Abstractions
+ - Relationships between classes
+ - Method Signatures
+ - Design Patterns
+
 # HLD vs LLD
     HLD foucses on System, Architecture, Infra and Components - What?
     LLD focuses on Implementation - how ?
 
-# lld 'abilities
+# LLD 'abilities
     maintainability: clean, debug, test, collaboration, extension (low coupling, high cohesion)
     reusability
     scalability
 
-# lld trade-off's
+# LLD trade-off's
     - Deep inheritance vs Composition
     - Encapsulation / Rich Domain model vs Anemic model + Service Layer
     - Interface abstraction vs Direct concrete class
@@ -35,7 +42,7 @@
     dependency
     realization
 
-# design principles
+# Design Principles
     DRY
     KISS
     SOLID: Single Responsibility, Open/Closed, Liskov's, Interface Segregation, Dependency Injection 
@@ -55,7 +62,7 @@
     Sequence Diagram
     Activity Diagram
 
-# design patterns
+# Design Patterns
     ## creational
         - Singelton
         - Factory Method
@@ -82,7 +89,7 @@
         - Momento
         - Chain Of Responsibility
 
-# lld interview template
+# LLD interview template
     Clarify (Functional Requirements/Use Cases)
     Identify Entities (Core Objects & Relationships)
     Define Responsibilities/Behavior
@@ -91,7 +98,8 @@
         - API's/Interface/Interaction
         - Add Extensions
         - Design Patterns
-        - Concurrency/Edge Cases
+        - Concurrency
+        - Edge Cases/Exceptional Scenarios: No product to dispense in Vending M/C or No Parking available in Parking Lot
     Summarize Trade-off's
         - performance vs readability
         - flexibility vs simplicity
@@ -114,10 +122,30 @@
 
 # LLD Problems:
     ## Easy:
-    Stack Overflow: https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem
+        [X] Stack Overflow: https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem
+        [X] Parking Lot
+        [X] Vending Machine
+        [X] Logging Framework
+        [X] Traffic Signal Control System
+        [X] Coffee Vending Machine
+        Task Management System
     
-    
-
+    ## Medium:
+        ATM
+        LinkedIn
+        LRU Cache
+        Tic Tac Toe Game
+        Pub Sub System
+        [X] Elevator System
+        Car Rental System
+        Online Auction System
+        Hotel Management System
+        Digital Wallet Service
+        Airline Management System
+        Library Management System
+        Social Network like Facebook
+        Restaurant Management System
+        Concert Ticket Booking System
 
 # References:
     trade-off's: https://www.perplexity.ai/search/give-me-few-concrete-examples-oDvRQ.zIRpy08iXx3lQYaQ
