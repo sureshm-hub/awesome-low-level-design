@@ -122,30 +122,30 @@
 
 # LLD Problems:
     ## Easy:
-        [X] Stack Overflow: https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem
-        [X] Parking Lot
-        [X] Vending Machine
-        [X] Logging Framework
-        [X] Traffic Signal Control System
-        [X] Coffee Vending Machine
-        Task Management System
+    [X] Stack Overflow: https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem
+    [X] Parking Lot
+    [X] Vending Machine
+    [X] Logging Framework
+    [X] Traffic Signal Control System
+    [X] Coffee Vending Machine
+    Task Management System
     
     ## Medium:
-        ATM
-        LinkedIn
-        LRU Cache
-        Tic Tac Toe Game
-        Pub Sub System
-        [X] Elevator System
-        Car Rental System
-        Online Auction System
-        Hotel Management System
-        Digital Wallet Service
-        Airline Management System
-        Library Management System
-        Social Network like Facebook
-        Restaurant Management System
-        Concert Ticket Booking System
+    ATM
+    LinkedIn
+    LRU Cache
+    Tic Tac Toe Game
+    Pub Sub System
+    [X] Elevator System
+    Car Rental System
+    Online Auction System
+    Hotel Management System
+    Digital Wallet Service
+    Airline Management System
+    Library Management System
+    Social Network like Facebook
+    Restaurant Management System
+    Concert Ticket Booking System
 
 # References:
     trade-off's: https://www.perplexity.ai/search/give-me-few-concrete-examples-oDvRQ.zIRpy08iXx3lQYaQ
