@@ -45,8 +45,8 @@
 # Design Principles
     DRY
     KISS
-    SOLID: Single Responsibility, Open/Closed, Liskov's, Interface Segregation, Dependency Injection 
-    YAGNI
+    SOLID - Single Responsibility, Open/Closed, Liskov's, Interface Segregation, Dependency Injection 
+    YAGNI - Always implement things when you actually need them, never when you just foresee that you need them.
     Law of Demeter - talk to your friends only, Avoid chaining objects & properties in a single statement
     Single Responsibility - A class should have one, and only one, reason to change. 
     GRASP - "General Responsibility Assignment Software Patterns"
@@ -131,13 +131,13 @@
     Task Management System
     
     ## Medium:
-    ATM
-    LinkedIn
+    [X] ATM
+    [X] LinkedIn
     LRU Cache
     Tic Tac Toe Game
-    Pub Sub System
+    [X] Pub Sub System
     [X] Elevator System
-    Car Rental System
+    [...] Car Rental System
     Online Auction System
     Hotel Management System
     Digital Wallet Service
@@ -146,6 +146,11 @@
     Social Network like Facebook
     Restaurant Management System
     Concert Ticket Booking System
+
+    ## Hard: Booking/Reservation workflows (transactions + availability)
+    Splitwise
+    MovieTicketBookingDemo (seat map, locks/holds, expiry)
+    FoodDeliveryServiceDemo (order workflow + dispatch + tracking)
 
 # References:
     trade-off's: https://www.perplexity.ai/search/give-me-few-concrete-examples-oDvRQ.zIRpy08iXx3lQYaQ

@@ -13,6 +13,6 @@ UML [X]
 Design Patterns [X]
 LLD Problems:
     lld check list [X]
-    easy []
-    med []
+    easy [X]
+    med [...]
     hard []
